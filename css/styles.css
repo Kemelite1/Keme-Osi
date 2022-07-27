@@ -62,7 +62,7 @@ a:hover{
 }
 
 .top-cloud{
-    position: absolute;
+    position: relative;
     right: 300px;
     top: 40px;
 }
